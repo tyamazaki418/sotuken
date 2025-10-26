@@ -1,0 +1,38 @@
+﻿Filename,True_Label,Majority_Prediction,Total_Predictions,Prediction_Distribution
+EF192394.1.pbm,moderate,mild,37,"{'mild': 35, 'moderate': 1, 'severe': 1}"
+AY532801.1.pbm,mild,severe,37,"{'severe': 36, 'moderate': 1}"
+X76846.1.pbm,severe,severe,37,"{'severe': 36, 'moderate': 1}"
+AF458997.1.pbm,severe,mild,37,"{'mild': 19, 'severe': 12, 'moderate': 6}"
+AF458999.1.pbm,severe,severe,37,"{'severe': 25, 'moderate': 12}"
+AY372394.1.pbm,severe,severe,37,"{'severe': 26, 'moderate': 11}"
+AY492084.1.pbm,mild,severe,37,"{'moderate': 16, 'severe': 18, 'mild': 3}"
+AY493559.1.pbm,mild,severe,37,"{'severe': 28, 'moderate': 8, 'mild': 1}"
+AY937181.1.pbm,mild,mild,37,"{'mild': 34, 'moderate': 1, 'severe': 2}"
+AY937184.1.pbm,moderate,mild,37,"{'mild': 28, 'moderate': 1, 'severe': 8}"
+AY937186.1.pbm,mild,mild,37,"{'mild': 35, 'moderate': 1, 'severe': 1}"
+AY937187.1.pbm,mild,mild,37,"{'mild': 34, 'moderate': 1, 'severe': 2}"
+EU257478.1.pbm,severe,mild,37,"{'mild': 36, 'severe': 1}"
+EU879919.1.pbm,moderate,severe,37,"{'severe': 27, 'mild': 10}"
+HQ452415.1.pbm,mild,mild,37,"{'mild': 32, 'severe': 5}"
+HQ456944.1.pbm,severe,moderate,37,"{'moderate': 22, 'severe': 9, 'mild': 6}"
+JQ889840.1.pbm,mild,moderate,37,"{'moderate': 21, 'mild': 9, 'severe': 7}"
+JQ889843.1.pbm,moderate,mild,37,"{'severe': 17, 'mild': 20}"
+JQ889844.1.pbm,moderate,mild,37,"{'mild': 35, 'severe': 2}"
+KM588065.1.pbm,mild,mild,37,{'mild': 37}
+KR611337.1.pbm,moderate,moderate,37,"{'moderate': 22, 'severe': 8, 'mild': 7}"
+KR611350.1.pbm,mild,severe,37,"{'mild': 18, 'severe': 19}"
+KY522737.1.pbm,mild,mild,37,{'mild': 37}
+KY522738.1.pbm,mild,mild,37,{'mild': 37}
+KY936880.1.pbm,severe,mild,37,"{'mild': 27, 'severe': 10}"
+KY936882.1.pbm,severe,mild,37,"{'mild': 34, 'severe': 3}"
+KY936883.1.pbm,severe,moderate,37,"{'moderate': 21, 'mild': 9, 'severe': 7}"
+KY936884.1.pbm,mild,severe,37,"{'severe': 33, 'mild': 2, 'moderate': 2}"
+LC388856.1.pbm,moderate,mild,37,"{'mild': 29, 'severe': 7, 'moderate': 1}"
+MF140247.1.pbm,mild,moderate,37,"{'severe': 17, 'moderate': 18, 'mild': 2}"
+MF140250.1.pbm,severe,severe,37,{'severe': 37}
+MF140251.1.pbm,moderate,severe,37,"{'severe': 30, 'mild': 3, 'moderate': 4}"
+MF140252.1.pbm,severe,severe,37,"{'severe': 30, 'moderate': 5, 'mild': 2}"
+MF140254.1.pbm,severe,moderate,37,"{'severe': 15, 'moderate': 17, 'mild': 5}"
+MK303579.1.pbm,severe,severe,37,"{'severe': 31, 'moderate': 6}"
+Y09381.1.pbm,severe,severe,37,"{'severe': 36, 'mild': 1}"
+Y09382.1.pbm,mild,severe,37,{'severe': 37}
