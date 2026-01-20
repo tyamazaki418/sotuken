@@ -34,7 +34,23 @@
      - つまり分類においてmoderateがノイズになっている可能性が高い 
 
  ## データについて
- - 使用データのdatファイル,pbm,pgmファイルは
+- グラフ表示画像はPSTVd300.faと以下のコードを使用して作成する
+   1. **make_dat.py**
+   2. **dat_to_image.py**
+- 重みを付けたグラフ表示画を作成したい場合はPSTVd300.faに以下のコードを使用する
+   1. **count_ATGC.py**
+   2. **weight_3mer.py**
+   3. **weight_dat.py**
+   4. **dat_to_image.py**
+- なおdat_to_imageでdraw_img_gray.pyを呼び出し実行する。draw_img_grayのほうで2値画像とグレースケール画像を切り替えて作成できる
+- 機械学習に使用するコードは
+ - データ拡張なし64×64の場合
+   1. **tensorflow_CNN_yachi.jpynb**
+   2. **tensorflow_no_moderate.jpynb**
+  - データ拡張あり64×64の場合
+   
+
+ - 
  - データ拡張なし64×64の結果は64_result
  - データ拡張した64×64の結果は350_result
    
