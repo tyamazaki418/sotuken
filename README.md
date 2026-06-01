@@ -44,13 +44,9 @@
    4. **dat_to_image.py**
 - なおdat_to_imageでdraw_img_gray.pyを呼び出し実行する。draw_img_grayのほうで2値画像とグレースケール画像を切り替えて作成できる
 - 機械学習に使用するコードは
- - データ拡張なし64×64の場合
-   1. **tensorflow_CNN_yachi.jpynb**
-   2. **tensorflow_no_moderate.jpynb**
-  - データ拡張あり64×64の場合
+  - データ拡張あり64×64で
     1. **tensorflow_CNN_data_pbm(pgm).jpynb**
     2. **tensorflow_CNN_data_2class_pbm(pgm).jpynb**
- - データ拡張なし64×64の結果は64_result
  - データ拡張した64×64の結果は350_result
 -jpynbにはジャックナイフ法とモデル構図が実装されているので適宜変える
 
