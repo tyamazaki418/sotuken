@@ -4,10 +4,10 @@ import time
 
 
 #ファイルパス
-python_executable = "C:/Users/torat/Desktop/sotsuken/sotsuken/.venv/Scripts/python.exe"
-draw_img_script = "C:/Users/torat/Desktop/sotsuken/sotsuken/draw_img_gray.py"
-dat_folder = "C:/Users/torat/Desktop/sotsuken/sotsuken/output_weight_350_dat"
-output_folder = "C:/Users/torat/Desktop/sotsuken/sotsuken/True_dat_to_images_350_weight_pgm"
+python_executable = ""
+draw_img_script = "draw_img.py"
+dat_folder = ""
+output_folder = ""
 img_x, img_y = 64,64  # 画像サイズ
 start_time = time.time()
 
