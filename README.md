@@ -54,3 +54,8 @@
 - 先行研究では学習時にmoderateを抜いてmildとsevereだけで学習してmoderateは予測に使われていた。一度自分の方でもmoderateを学習かあ抜いてmildとsevereのみでジャックナイフを実行してみて繁華性能の評価をして最終的にラベルなしデータの予測をしてみる。なお先行研究が2クラスに分類されていたのはこれが原因の可能性もある。
 - この研究では3塩基の出現頻度に基づいた重みを適用してグラフ表示画像の部分的な特徴を表現していた。次は、DNA言語モデルによって文脈を考慮した多次元ベクトルを得てPCAやt-SNEなどで次元圧縮して2次元に落としてグラフ表示画像を作成してみる方法を検討している。
 - 先ほどのDNA言語モデルの予測をCNNで実行したうえである程度の精度が見込めた場合はVITで分類して精度が改善するかどうかを確認をする。
+
+## 参考文献
+Sun，J．，Matsushita Y．，" Predicting symptom severity in PSTVd-infected tomato plants using the PSTVd genome sequence．"
+Molecular Plant Pathology (7)(2024)．
+https://bsppjournals.onlinelibrary.wiley.com/doi/10.1111/mpp.13469
